@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "356861984876",
+    "project_id": "subset-604bd",
+    "storage_bucket": "subset-604bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356861984876:android:de92809bf6044d02891849",
+        "android_client_info": {
+          "package_name": "com.docai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356861984876-4omf0o6oc0l570a6if9dbiol9t96gabu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docai",
+            "certificate_hash": "93777583b780e7a5f96203723f44320f5c2274a3"
+          }
+        },
+        {
+          "client_id": "356861984876-61bfan1nesb3nd32hqj4od8pjt3u2hgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docai",
+            "certificate_hash": "2be42590f07596129b1b625946a442c415209271"
+          }
+        },
+        {
+          "client_id": "356861984876-ckdl74dq4f8r1dhg29ra3fo1als0ptsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "356861984876-eq56e45uoe0n66u2asajv1iuittkb5n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docai",
+            "certificate_hash": "3589994467b6ff6d8907ad7f7ffd1e1901111d27"
+          }
+        },
+        {
+          "client_id": "356861984876-19gl797bcp520hljb119g54pu405d0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWkModU43RC_bUtiFnJINBXEUiB1pJe20"
+        },
+        {
+          "current_key": "AIzaSyCOu1KRUK3gQBGJuyha48Nxjn74Ws41HCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356861984876-19gl797bcp520hljb119g54pu405d0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356861984876:android:d969e2fc970a7b10891849",
+        "android_client_info": {
+          "package_name": "com.subsetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356861984876-2sehm0j1bpd5lp8v2mog547seh6cqkji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subsetapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "356861984876-ko3cke704t4p1ep6k7q6pt2ujvigo2bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subsetapp",
+            "certificate_hash": "93777583b780e7a5f96203723f44320f5c2274a3"
+          }
+        },
+        {
+          "client_id": "356861984876-vekntpnsd5h9gglcnd322pi8rt06sp2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subsetapp",
+            "certificate_hash": "2be42590f07596129b1b625946a442c415209271"
+          }
+        },
+        {
+          "client_id": "356861984876-19gl797bcp520hljb119g54pu405d0i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWkModU43RC_bUtiFnJINBXEUiB1pJe20"
+        },
+        {
+          "current_key": "AIzaSyCOu1KRUK3gQBGJuyha48Nxjn74Ws41HCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356861984876-19gl797bcp520hljb119g54pu405d0i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
